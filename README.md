@@ -1,5 +1,7 @@
 # PDF Tools
-A responsive Flask web app used for modifying PDF files.
+A responsive Flask web app used for modifying PDF files.  
+Navigate to [HOW_TO_RUN.MD](HOW_TO_RUN.MD) file to understand how to host it for free.  
+
 ## Table of contents
 * [About](#about)
 * [Technologies](#technologies)
