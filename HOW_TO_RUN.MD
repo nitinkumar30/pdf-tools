@@ -1,5 +1,3 @@
-So, today we'll learn how to host our [flask](https://flask.palletsprojects.com/en/2.2.x/) code online without any charges.
-
 # Requirements
 
 - [Python Anywhere Account](https://www.pythonanywhere.com/registration/register/beginner/)
